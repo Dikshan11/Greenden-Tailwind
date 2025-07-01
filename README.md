@@ -4,7 +4,6 @@ GreenDen is a responsive website built using **HTML** and **Tailwind CSS**. It f
 
 ## 🌐 Live Demo
 
-*(Add your live site URL here if deployed, e.g., GitHub Pages or Vercel)*  
 [View Website](https://dikshan11.github.io/greenden-tailwind/index.html)
 
 ## 📁 Pages
